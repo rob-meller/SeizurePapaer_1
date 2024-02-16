@@ -7,7 +7,7 @@ Scripts are designed to run in a Project folder, with subsequent folders labeled
 
 The scripts are called from the project folder using a list of sample identifiers (usually unique sample IDS at the begining of the file name)
 
-Scritps are called with...
+Scripts are called with...
 >cat samples.txt | parallel -j n Scripts/<name_of_Script>
   where n is the number of threads depending on your systems available memory. 
  
