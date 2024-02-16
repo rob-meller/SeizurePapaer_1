@@ -9,5 +9,6 @@ The scripts are called from the project folder using a list of sample identifier
 
 Scripts are called with...
 >cat samples.txt | parallel -j n Scripts/<name_of_Script>
-  where n is the number of threads depending on your systems available memory. 
+
+# where n is the number of threads depending on your systems available memory. 
  
