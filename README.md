@@ -12,3 +12,6 @@ Scripts are called with...
 
 where n is the number of threads depending on your systems available memory. 
  
+UPDATED Jul 2024
+
+We have now added the Caret script we use for prediction modeling in R.
